@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639769743699",
+    "project_id": "magichat2-dd740",
+    "storage_bucket": "magichat2-dd740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639769743699:android:3fc0ce2f6830d3e2f8d1a6",
+        "android_client_info": {
+          "package_name": "com.example.magichat2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxxJ4eo7TtoDmaTQCEY4rqoUcWOD7e3mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
